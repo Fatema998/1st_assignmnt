@@ -1,0 +1,233 @@
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.hp{
+    Font: Merriweather;
+    /* Font weight: 900;
+   Font size: 72px;
+    height: 95px */
+    font-size: 72px;
+    /* font-weight: 900; */
+    font-family: Merriweather;
+    color: aliceblue;
+  
+
+}
+.h4{
+    color: white;
+    font-weight: 400;
+    font-size: 32px;
+    filter:brightness(100%);
+}
+.head{
+
+    padding:  177px 399px;
+   /* padding: 150px; */
+   /* padding-left: 150px;
+   padding-right: 150px;
+   padding-bottom: 150px; */
+   /* margin: 140px; */
+   margin-left: 140px;
+   margin-right: 140px;
+    border-radius: 10px;
+    /* filter: brightness(70%); */
+   
+    justify-content:space-around;
+    text-align: center;
+    background-repeat: no-repeat;
+   
+    background-position:center;
+    background-image: url('../resources/Banner\ Image.png');
+}
+
+.secnd_part{
+
+    padding: 0px 399px;
+    text-align: center;
+    justify-content:space-around;
+}
+.h1{
+  font-weight: 900;
+  font-size: 64px;
+  color: white;
+}
+.pe{
+   color: white;
+   font-weight: 400;
+   font-size: 18px;
+   gap:24px;
+}
+.pee{
+   color: white;
+   font-weight: 400;
+   font-size: 18px;
+   gap:24px;
+}
+.Wel{
+    text-align:left;
+    /* filter: brightness(50%); */
+    padding: 120px;
+    margin: 100px;
+    justify-content: center;
+
+    
+    background-image: url('../resources/Vectorrr.png');
+    background-repeat: no-repeat;
+  
+}
+.awe{
+    padding-bottom: 16px;
+}
+.bg{
+   
+  background-color: rgb(223, 214, 214);
+
+  text-align: center;
+
+  padding: 140px;
+  margin: 150px;
+ 
+  justify-content: space-around;
+}
+.red{
+    color: red;
+    padding-bottom: 16px;
+}
+.btn{
+    padding: 10px 15px;
+    color:rgb(162, 17, 17);
+    border: none;
+   
+}
+.flex{
+    display: flex;
+    padding: 24px 140px;
+    gap:24px;
+   
+    
+}
+.gift{
+    text-align: left;
+    padding:5px 140px;;
+}
+
+
+.center{
+    
+    padding: 140px;
+ 
+    margin: 150px;
+    background-color: rgb(247, 235, 220);
+    text-align: center;
+  
+
+}
+.p{
+    display: flex;
+    gap: 20px;
+    padding-bottom: 5px;
+}
+.sub{
+    /* padding: 20px 10px; */
+    padding: 12px 20px;
+    background-color: brown;
+    border-right: 10px;
+    border-radius: 0px 20px 20px 0px;
+      border:none;
+      color: aliceblue;
+}
+
+.flexx{
+    display: flex;
+    padding: 24px 728px;
+    gap:24px;
+    justify-content: space-around;
+   
+    
+}
+
+.foo{
+   background-color: black;
+}
+.hrr{
+
+
+    border-top: 1px solid rgb(2, 2, 2);
+
+}
+
+.f{
+    display: flex;
+    width: 80%;
+    padding: 10px;
+}
+.white{
+    color: aliceblue;
+}
+.input{
+    width: 80%;
+    border-radius:inherit;
+      border-left:none;
+      border: none;
+    /* margin: 8px 0; */
+}
+.fl{
+    display: flex;
+    justify-content: space-evenly;
+    /* padding:140px;
+    margin: 120px; */
+    
+    padding: 50px;
+  
+    text-align: center;
+    max-width: 100%;
+  
+    
+}
+.black{
+    font-weight: 900;
+    font-size: 48px;
+    padding-top: 40px;
+    padding-bottom: 22px;
+}
+.bgg{
+    text-align: center;
+    padding: 0px 140px;
+   
+}
+.img1{
+    /* padding: 47px ; */ */
+    /* margin: 0px 50px;
+    align-items: center;
+    /* position: absolute; */
+
+    
+}
+.holi{
+    font-weight: 500;
+    font-size: 24px;
+    color:rgb(227, 74, 74) ;
+
+}
+
+.text{
+    color:rgb(227, 74, 74) ;
+    font-weight: 700;
+    font-size: 88px;
+}
+.cat{
+    gap: 16px;
+    font-weight: 700;
+    font-size: 48px;
+    color: black;
+}
+.cols{
+    padding: 140px;
+    margin: 150px;
+};
