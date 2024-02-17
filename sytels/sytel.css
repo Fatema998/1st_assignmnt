@@ -168,7 +168,13 @@
 .hrr{
 
 
-    border-top: 1px solid rgb(2, 2, 2);
+    /* border-top: 1px solid rgb(2, 2, 2); */
+    width: 80%;
+    margin: auto;
+    height: 0;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    margin-top: 50px;
+    margin-bottom: 50px;
 
 }
 
@@ -176,16 +182,15 @@
     display: flex;
     width: 80%;
     padding: 10px;
+    margin: auto;
 }
 .white{
     color: aliceblue;
 }
 .input{
     width: 80%;
-    border-radius:inherit;
-      border-left:none;
-      border: none;
-    /* margin: 8px 0; */
+   border: none;
+   border-radius: 50px 0px 0px 50px;
 }
 .fl{
     display: flex;
